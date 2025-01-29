@@ -7,8 +7,12 @@ Este repositório contém o projeto desenvolvido durante a Imersão Front-End da
 - JavaScript
 
 ### Funcionalidades
-- Sidebar de navegação
-- Estilização responsiva
+- Menu Lateral: Navegação entre diferentes seções da aplicação.
+- Cabeçalho com Busca: Campo de busca para pesquisar artistas ou músicas.
+- Botões de Navegação: Setas para navegar entre as músicas.
+- Área Principal: Exibição de informações sobre as músicas e artistas.
+- Responsividade: Layout adaptável para diferentes tamanhos de tela.
+
   
 Sinta-se à vontade para explorar, contribuir ou utilizar como referência para seus próprios projetos!
 ____
