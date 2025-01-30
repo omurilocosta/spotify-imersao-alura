@@ -12,7 +12,8 @@ Este repositório contém o projeto desenvolvido durante a Imersão Front-End da
 - Botões de Navegação: Setas para navegar entre as músicas.
 - Área Principal: Exibição de informações sobre as músicas e artistas.
 - Responsividade: Layout adaptável para diferentes tamanhos de tela.
-
+- Criação de uma API fake utilizando o JSON Server.
+- Implementação de busca de artistas.
   
 Sinta-se à vontade para explorar, contribuir ou utilizar como referência para seus próprios projetos!
 ____
