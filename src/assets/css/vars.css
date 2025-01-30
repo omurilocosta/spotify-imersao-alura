@@ -6,4 +6,10 @@
     /* ! COLOR */
     --bg-icon: #131313;
     --bg-arrow-color: rgba(0,0,0,.7);
+    --text-base-light: #fff;
+
+    /* * SIZE */
+    --grid-gap: 24px;
+    --column-count: 5;
+    --min-container-width: 372px;
 }
